@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/securemyvps/securemyvps">
+    <img src="https://raw.githubusercontent.com/securemyvps/securemyvps/main/docs/assets/banner-readme-1280x320.png" alt="SecureMyVPS — VPS hardening that will not lock you out" width="100%">
+  </a>
+</p>
+
 # SecureMyVPS
 
 Open-source VPS security hardening tools — built to be transparent, verifiable, and safe to inspect before you run.
